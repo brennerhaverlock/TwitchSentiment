@@ -14,9 +14,9 @@ Get token here: https://twitchapps.com/tmi/
 
 server = 'irc.chat.twitch.tv'
 port = 6667
-nickname = '<YOUR_USERNAME>'
-token = '<YOUR_TOKEN>'
-channel = '<CHANNEL>'
+nickname = 'kingDoba'
+token = 'oauth:wwmnp95ew8qge8q3edmq5mbkarwkky'
+channel = '#pikabooirl'
 
 
 def main():
